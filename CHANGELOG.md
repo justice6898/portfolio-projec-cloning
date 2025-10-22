@@ -4,17 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
-the following form: YYYY.0M.0D.
+the following form: 2025, 10, 08.
 
 ## [Unreleased]
 
-## [2024.12.30]
+## [2025.10.08]
 
 - Added table-based rubrics to all 6 parts of the project
 - Updated gitignore to exclude more files
 - Fixed image markdown in the interfaces document
 
-## [2024.08.07]
+## [2025.10.08]
 
 ### Added
 
@@ -29,6 +29,9 @@ the following form: YYYY.0M.0D.
   project
 - Added information about how to make a pull request to every part of the
   project
+- Designed a proof of concept for 02-component-proof-of-concempt.md component
+- Designed a proof of concept for BudgetEnvelop.md component
+
 
 ### Changed
 
@@ -50,6 +53,7 @@ the following form: YYYY.0M.0D.
 - Updated README to include step about using template repo
 - Updated part 3 rubric to include a hierarchy diagram
 - Updated part 6 rubric to account for overall polish
+- 
 
 ### Fixed
 
