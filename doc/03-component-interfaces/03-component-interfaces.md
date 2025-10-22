@@ -130,8 +130,8 @@ hierarchy diagram using whatever tools you would like. Then, include a picture
 of it in this folder. You may also embed it just below using markdown syntax
 (i.e., `![ALT TEXT](path/to/file)`).
 
-<!-- TODO: make a diagram of your component hierarchy then delete this comment -->
-
+![BudgetEnvelope Hierarchy Diagram](budgetEnvelopeHierarchy.png)
+ 
 To start making your interfaces, make a branch off of main in your new repo
 called something like `interfaces`. There are many ways to do this, but my
 preference is to use GitHub Desktop. From there, you can click the `Branch`
