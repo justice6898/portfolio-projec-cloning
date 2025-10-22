@@ -12,12 +12,12 @@ the following form: YYYY.0M.0D.
 
 ### Added
 - Created `BudgetEnvelopeKernel` and `BudgetEnvelope` interfaces
-- Added core methods for managing expenses, income, and balance
-- Added enhanced features for transfer, goal tracking, and deficit check
+- Added main methods for expense, income, and balance management
+- Added extra methods for transfer, goal checking, and deficit detection
 
 ### Updated
-- Adjusted design from proof-of-concept to OSU discipline interface format
-- Added OSU-style contracts (`@requires`, `@updates`, `@ensures`) for each method
+- Improved design from the proof-of-concept to follow OSU component style
+- Added short method descriptions and simple contracts for clarity
 
 ## [2024.12.30]
 
