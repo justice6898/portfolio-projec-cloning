@@ -8,6 +8,17 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
+## 2025.10.22
+
+### Added
+- Created `BudgetEnvelopeKernel` and `BudgetEnvelope` interfaces
+- Added core methods for managing expenses, income, and balance
+- Added enhanced features for transfer, goal tracking, and deficit check
+
+### Updated
+- Adjusted design from proof-of-concept to OSU discipline interface format
+- Added OSU-style contracts (`@requires`, `@updates`, `@ensures`) for each method
+
 ## [2024.12.30]
 
 - Added table-based rubrics to all 6 parts of the project
