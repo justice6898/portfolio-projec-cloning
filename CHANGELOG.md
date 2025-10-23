@@ -8,6 +8,17 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
+## 2025.10.22
+
+### Added
+- Created `BudgetEnvelopeKernel` and `BudgetEnvelope` interfaces
+- Added main methods for expense, income, and balance management
+- Added extra methods for transfer, goal checking, and deficit detection
+
+### Updated
+- Improved design from the proof-of-concept to follow OSU component style
+- Added short method descriptions and simple contracts for clarity
+
 ## [2024.12.30]
 
 - Added table-based rubrics to all 6 parts of the project
